@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoning untriggered traps -->
+  <AbandonedTraps.label>遗弃未触发的陷阱</AbandonedTraps.label>
+  <!-- EN: Leaving unexploded anti-personnel mines or booby traps. -->
+  <AbandonedTraps.description>在积极敌对行动停止后，当事各方应在相互之间，以及在适当情况下与其他国家和国际组织，努力就提供关于扫除冲突期间布下的布雷区、地雷 (水雷) 和饵雷或使其失效所需的资料和技术及物质援助——包括在适当情况下采取联合行动——达成协议。</AbandonedTraps.description>
+  <!-- EN: Geneva Convention on Certain Conventional Weapons, Protocol II -->
+  <AbandonedTraps.genevaConventionLocation>《特定常规武器公约》第二号议定书</AbandonedTraps.genevaConventionLocation>
+  <!-- EN: Abandoned untriggered traps. -->
+  <AbandonedTraps.pastTenseBrief>遗弃了未触发的陷阱。</AbandonedTraps.pastTenseBrief>
+  
+  <!-- EN: failed to provide adequate messing premises -->
+  <AteWithoutTable.label>未能提供适当的用餐场所</AteWithoutTable.label>
+  <!-- EN: Adequate premises must be provided for messing. -->
+  <AteWithoutTable.description>为供战俘用膳，应备适当之场所</AteWithoutTable.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 26 -->
+  <AteWithoutTable.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十六条</AteWithoutTable.genevaConventionLocation>
+  <!-- EN: Deprived a prisoner of table to mess at. -->
+  <AteWithoutTable.pastTenseBrief>剥夺了囚犯在桌上用餐的权利。</AteWithoutTable.pastTenseBrief>
+  
+  <!-- EN: attacking civilians or neutral parties -->
+  <AttackingCivilians.label>攻击平民或中立实体</AttackingCivilians.label>
+  <!-- EN: Violence against civilians or neutral parties is prohibited. -->
+  <AttackingCivilians.description>在一缔约国之领土内发生非国际性之武装冲突之场合，冲突之各方最低限度应遵守下列规定：（一）不实际参加战事之人员……因此，对于上述人员，不论何时何地，不得有下列行为：（甲）对生命与人身施以暴力</AttackingCivilians.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter I, Article 3 -->
+  <AttackingCivilians.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三条</AttackingCivilians.genevaConventionLocation>
+  <!-- EN: Attacked a civilian. -->
+  <AttackingCivilians.pastTenseBrief>攻击了平民</AttackingCivilians.pastTenseBrief>
+  
+  <!-- EN: failed to provide adequate clothing -->
+  <BadClothing.label>未提供充分的衣物</BadClothing.label>
+  <!-- EN: Prisoners must be given decent clothing kept in good repair. -->
+  <BadClothing.description>服装、内衣、及鞋袜应由拘留国充分供给战俘，并应顾及拘留战俘地区之气候</BadClothing.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter III, Article 30 -->
+  <BadClothing.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十七条</BadClothing.genevaConventionLocation>
+  <!-- EN: Left a prisoner of war unclothed. -->
+  <BadClothing.pastTenseBrief>使战俘衣不蔽体。</BadClothing.pastTenseBrief>
+  
+  <!-- EN: keeping prisoners in uncomfortable or dangerous temperatures -->
+  <BadTemp.label>使囚犯处在不适或危险温度下</BadTemp.label>
+  <!-- EN: It is prohibited to keep prisoners in an uncomfortable or dangerous temperature. -->
+  <BadTemp.description>为战俘个人或集体设置之住所，应全无潮湿之患，并应有充足之温度与光线</BadTemp.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <BadTemp.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十五条</BadTemp.genevaConventionLocation>
+  <!-- EN: Kept a prisoner in unsafe temperatures. -->
+  <BadTemp.pastTenseBrief>使囚犯处在危险温度下。</BadTemp.pastTenseBrief>
+  
+  <!-- EN: keeping prisoners in dark conditions -->
+  <CellLighting.label>将囚犯置于暗处</CellLighting.label>
+  <!-- EN: It is prohibited to keep prisoners in dim or dark lighting. -->
+  <CellLighting.description>为战俘个人或集体设置之住所，应全无潮湿之患，并应有充足之温度与光线</CellLighting.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <CellLighting.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十五条</CellLighting.genevaConventionLocation>
+  <!-- EN: Kept a prisoner in darkness. -->
+  <CellLighting.pastTenseBrief>将囚犯置于暗处。</CellLighting.pastTenseBrief>
+  
+  <!-- EN: holding a child prisoner -->
+  <ChildImprisoned.label>囚禁儿童</ChildImprisoned.label>
+  <!-- EN: Imprisonment of a child for an unreasonable amount of time is prohibited. -->
+  <ChildImprisoned.description>暂时或永久脱离家庭环境的儿童，或为其最大利益不得在这种环境中继续生活的儿童，应有权得到国家的特别保护和协助</ChildImprisoned.description>
+  <!-- EN: 1989 Convention on the Rights of the Child, Article 20 -->
+  <ChildImprisoned.genevaConventionLocation>《儿童权利公约》第二十条</ChildImprisoned.genevaConventionLocation>
+  <!-- EN: Held a child in long term imprisonment. -->
+  <ChildImprisoned.pastTenseBrief>长期囚禁儿童。</ChildImprisoned.pastTenseBrief>
+  
+  <!-- EN: depriving a child of education -->
+  <ChildNoEducation.label>剥夺儿童受教育权</ChildNoEducation.label>
+  <!-- EN: Depriving a child of education and enrichment is prohibited. -->
+  <ChildNoEducation.description>缔约国应最大限度地确保儿童的存活与发展</ChildNoEducation.description>
+  <!-- EN: 1989 Convention on the Rights of the Child, Article 6 -->
+  <ChildNoEducation.genevaConventionLocation>《儿童权利公约》第六条</ChildNoEducation.genevaConventionLocation>
+  <!-- EN: Deprived a child of education. -->
+  <ChildNoEducation.pastTenseBrief>剥夺了儿童的受教育权。</ChildNoEducation.pastTenseBrief>
+  
+  <!-- EN: depriving a child of play -->
+  <ChildNoPlay.label>禁止儿童游戏</ChildNoPlay.label>
+  <!-- EN: Depriving a child of play or leisure is prohibited. -->
+  <ChildNoPlay.description>缔约国确认儿童有权享有休息和闲暇，从事与儿童年龄相宜的游戏和娱乐活动，以及自由参加文化生活和艺术活动</ChildNoPlay.description>
+  <!-- EN: 1989 Convention on the Rights of the Child, Article 31 -->
+  <ChildNoPlay.genevaConventionLocation>《儿童权利公约》第三十一条</ChildNoPlay.genevaConventionLocation>
+  <!-- EN: Deprived a child of play. -->
+  <ChildNoPlay.pastTenseBrief>禁止儿童游戏。</ChildNoPlay.pastTenseBrief>
+  
+  <!-- EN: recruiting a child soldier -->
+  <ChildSoldier.label>招募童军</ChildSoldier.label>
+  <!-- EN: Recruiting a child into military service is prohibited. -->
+  <ChildSoldier.description>缔约国应避免招募任何未满15岁的人加入武装部队</ChildSoldier.description>
+  <!-- EN: 1989 Convention on the Rights of the Child, Article 38 -->
+  <ChildSoldier.genevaConventionLocation>《儿童权利公约》第三十八条</ChildSoldier.genevaConventionLocation>
+  <!-- EN: Employed child soldiers. -->
+  <ChildSoldier.pastTenseBrief>招募童军。</ChildSoldier.pastTenseBrief>
+  
+  <!-- EN: holding prisoners in close confinement -->
+  <CloseConfinement.label>禁闭囚犯</CloseConfinement.label>
+  <!-- EN: Prisoners must not be kept in close confinement unless necessary for their health. -->
+  <CloseConfinement.description>除适用本公约关于刑事与纪律制裁之规定外，不得将战俘禁闭，但遇为保障其健康有必要时……则为例外</CloseConfinement.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part III, Section II, Chapter I, Article 21 -->
+  <CloseConfinement.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第一章 第二十一条</CloseConfinement.genevaConventionLocation>
+  <!-- EN: Held a prisoner in close confinement. -->
+  <CloseConfinement.pastTenseBrief>禁闭了囚犯。</CloseConfinement.pastTenseBrief>
+  
+  <!-- EN: keeping prisoners in damp conditions -->
+  <DampCell.label>将囚犯置于潮湿环境</DampCell.label>
+  <!-- EN: It is prohibited to keep prisoners in a damp or wet room. -->
+  <DampCell.description>为战俘个人或集体设置之住所，应全无潮湿之患，并应有充足之温度与光线</DampCell.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <DampCell.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十五条</DampCell.genevaConventionLocation>
+  <!-- EN: Kept a prisoner in dampness. -->
+  <DampCell.pastTenseBrief>将囚犯置于潮湿环境。</DampCell.pastTenseBrief>
+  
+  <!-- EN: degrading treatment of prisoners -->
+  <DegradingCell.label>降级囚犯待遇</DegradingCell.label>
+  <!-- EN: Housing of prisoners should be comparable to nationals of the detaining power. -->
+  <DegradingCell.description>在一缔约国之领土内发生非国际性之武装冲突之场合，冲突之各方最低限度应遵守下列规定：（一）不实际参加战事之人员，包括放下武器之武装部队人员及因病、伤、拘留或其他原因而失去战斗力之人员在内，在一切情况下应予以人道待遇</DegradingCell.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter I, Article 3 -->
+  <DegradingCell.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三条</DegradingCell.genevaConventionLocation>
+  <!-- EN: Held prisoners of war in degrading and inhumane conditions. -->
+  <DegradingCell.pastTenseBrief>将战俘置于降级和不人道的环境中。</DegradingCell.pastTenseBrief>
+  
+  <!-- EN: deportation, exile, or abandonment of prisoners -->
+  <Deportation.label>驱逐、流放或遗弃囚犯</Deportation.label>
+  <!-- EN: Prisoners must be safely evacuated, not abandoned or exiled. -->
+  <Deportation.description>凡自占领地将被保护人个别或集体强制移送及驱逐往占领国之领土或任何其他被占领或未被占领之国家之领土，不论其动机如何，均所禁止</Deportation.description>
+  <!-- EN: Geneva Conventions Act 1957, Fourth Schedule, Part III, Section III, Chapter VIII, Article 49 -->
+  <Deportation.genevaConventionLocation>《关于战时保护平民之日内瓦公约》第三部 第三编 第四十九条</Deportation.genevaConventionLocation>
+  <!-- EN: Exiled a prisoner. -->
+  <Deportation.pastTenseBrief>流放了囚犯。</Deportation.pastTenseBrief>
+  
+  <!-- EN: improper use of special designated symbols -->
+  <DesignatedSymbols.label>对特定符号的不当使用</DesignatedSymbols.label>
+  <!-- EN: Using a red cross on white, red crescent on white, red lion and sun on white, red crystal on white, or blue triangle on orange for anything other than as their specially designated purpose is prohibited. -->
+  <DesignatedSymbols.description>缔约各方应采取必要措施，随时防止和取缔对第一条和第二条所述的各特殊标志及其名称的任何滥用，包括背信弃义地使用和任何构成对其模仿的标志或名称的使用。</DesignatedSymbols.description>
+  <!-- EN: Geneva Conventions Act 1957, Protocol III, Article 6 -->
+  <DesignatedSymbols.genevaConventionLocation>《关于采纳一个新增特殊标志的附加议定书》第六条</DesignatedSymbols.genevaConventionLocation>
+  <!-- EN: Used a special designated symbol. -->
+  <DesignatedSymbols.pastTenseBrief>使用特定的符号。</DesignatedSymbols.pastTenseBrief>
+  
+  <!-- EN: holding prisoners of war in a combat zone -->
+  <EndangeringPrisoners.label>将战俘置于交战区</EndangeringPrisoners.label>
+  <!-- EN: Endangering prisoners by holding prisoners of war in a combat zone for longer than is required is prohibited. -->
+  <EndangeringPrisoners.description>非系第二十八条所规定之必需留用人员，一俟归路可通及军情许可，应将其送回其所属之冲突一方</EndangeringPrisoners.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter IV, Article 30 -->
+  <EndangeringPrisoners.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三十条</EndangeringPrisoners.genevaConventionLocation>
+  <!-- EN: Endangered prisoners. -->
+  <EndangeringPrisoners.pastTenseBrief>将囚犯置于危险境地。</EndangeringPrisoners.pastTenseBrief>
+  
+  <!-- EN: enslaved a prisoner of war -->
+  <Enslavement.label>奴役战俘</Enslavement.label>
+  <!-- EN: Enslaving, torture with intent to enslave, trafficking, or forced labor of a prisoner of war is prohibited. -->
+  <Enslavement.description>对第一款所指的人的下列行为是禁止的，并在任何时候和在任何地方均应禁止：（六）各种形式的奴隶制度和奴隶贩卖；</Enslavement.description>
+  <!-- EN: Geneva Conventions Act 1957, Sixth Schedule, Part II, Article 4 -->
+  <Enslavement.genevaConventionLocation>《关于保护非国际性武装冲突受难者的附加议定书》第二部 第四条</Enslavement.genevaConventionLocation>
+  <!-- EN: Engaged in slavery or trafficking of a prisoner. -->
+  <Enslavement.pastTenseBrief>参与了对囚犯的奴役或贩奴。</Enslavement.pastTenseBrief>
+  
+  <!-- EN: use of weaponry that is destructive to environment -->
+  <EnvironmentalDestruction.label>使用对环境有巨大破坏的武器</EnvironmentalDestruction.label>
+  <!-- EN: Use of weaponry that causes undue and superfluous destruction of the environment. -->
+  <EnvironmentalDestruction.description>禁止使用旨在或可能对自然环境引起广泛、长期而严重损害的作战方法或手段</EnvironmentalDestruction.description>
+  <!-- EN: Geneva Conventions Act 1957, Fifth Schedule, Part III, Section I, Article 35 -->
+  <EnvironmentalDestruction.genevaConventionLocation>《关于保护国际性武装冲突受难者的附加议定书》第三部 第一编 第三十五条</EnvironmentalDestruction.genevaConventionLocation>
+  <!-- EN: Destroyed the environment. -->
+  <EnvironmentalDestruction.pastTenseBrief>破坏环境。</EnvironmentalDestruction.pastTenseBrief>
+  
+  <!-- EN: execution of prisoners of war -->
+  <ExecutingPOW.label>处决战俘</ExecutingPOW.label>
+  <!-- EN: Execution of prisoners of war is prohibited. -->
+  <ExecutingPOW.description>一切未直接参加或已停止参加敌对行动的人，不论其自由是否受限制，均有权享受对其人身、荣誉以及信念和宗教仪式的尊重……下令杀无赦，是禁止的。</ExecutingPOW.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter I, Article 3 -->
+  <ExecutingPOW.genevaConventionLocation>《关于保护非国际性武装冲突受难者的附加议定书》第二部 第四条</ExecutingPOW.genevaConventionLocation>
+  <!-- EN: Executed a prisoner of war. -->
+  <ExecutingPOW.pastTenseBrief>处决了战俘。</ExecutingPOW.pastTenseBrief>
+  
+  <!-- EN: keeping prisoners in a room without fire protection -->
+  <FireHazard.label>将囚犯置于没有防火措施的房间</FireHazard.label>
+  <!-- EN: It is prohibited to keep prisoners in a room without proper fire protection (firefoam poppers, or uninflammible interior). -->
+  <FireHazard.description>为战俘个人或集体设置之住所……对于火灾应采取一切预防措施。</FireHazard.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <FireHazard.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二十五条</FireHazard.genevaConventionLocation>
+  <!-- EN: Exposed a prisoner to a fire hazard. -->
+  <FireHazard.pastTenseBrief>将囚犯置于火险中。</FireHazard.pastTenseBrief>
+  
+  <!-- EN: intentionally injuring a pawn who is hors de combat -->
+  <InjuredDowned.label>故意伤害失去战斗能力的士兵</InjuredDowned.label>
+  <!-- EN: Soldiers considered hors de combat cannot be attacked or killed. -->
+  <InjuredDowned.description>在一缔约国之领土内发生非国际性之武装冲突之场合，冲突之各方最低限度应遵守下列规定：（一）不实际参加战事之人员，包括放下武器之武装部队人员及因病、伤、拘留或其他原因而失去战斗力之人员在内……因此，对于上述人员，不论何时何地，不得有下列行为：（甲）对生命与人身施以暴力</InjuredDowned.description>
+  <!-- EN: Geneva Conventions Act 1957, Fourth Schedule, Part I, Article 3 -->
+  <InjuredDowned.genevaConventionLocation>《关于战时保护平民之日内瓦公约》第一部 第三条</InjuredDowned.genevaConventionLocation>
+  <!-- EN: Assaulted an incapacitated soldier. -->
+  <InjuredDowned.pastTenseBrief>攻击无作战能力的士兵。</InjuredDowned.pastTenseBrief>
+  
+  <!-- EN: holding prisoners without advance pay -->
+  <NoAdvancePay.label>扣押囚犯而未付工资</NoAdvancePay.label>
+  <!-- EN: Prisoners must be paid a monthly advance based on their rank. -->
+  <NoAdvancePay.description>拘留国应对所有战俘按月垫发薪给，其数目应照以下所列折成该国货币。第一类：中士以下之战俘：八瑞士法郎……</NoAdvancePay.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part III, Section IV, Chapter VIII, Article 60 -->
+  <NoAdvancePay.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第四编 第六十条</NoAdvancePay.genevaConventionLocation>
+  <!-- EN: Held a prisoner without advance pay. -->
+  <NoAdvancePay.pastTenseBrief>扣押了囚犯而未付工资。</NoAdvancePay.pastTenseBrief>
+  
+  <!-- EN: keeping prisoners without a bedroom or bed -->
+  <NoBed.label>未为囚犯提供床或囚室</NoBed.label>
+  <!-- EN: It is prohibited to keep prisoners without providing a proper bed or cell. -->
+  <NoBed.description>战俘住宿之条件应与在同一区域内拘留国驻扎之部队居住之条件同样优良……上述规定尤应适用于战俘之宿舍，如关于总面积与最低限度之立方空间，及一般设备、垫褥、被毯等。</NoBed.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <NoBed.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二章 第二十五条</NoBed.genevaConventionLocation>
+  <!-- EN: Kept a prisoner without a bed or room. -->
+  <NoBed.pastTenseBrief>未为囚犯提供床或囚室。</NoBed.pastTenseBrief>
+  
+  <!-- EN: nonvenerated disposal of dead -->
+  <NonvenerationOfDead.label>无尊严地处置死者</NonvenerationOfDead.label>
+  <!-- EN: Cremation or other nonburial disposal of enemy corpses is prohibited. -->
+  <NonvenerationOfDead.description>冲突各方更应保证死者得到荣誉的安葬，可能时，应按照彼等所属宗教之仪式埋葬之，其坟墓应受尊重</NonvenerationOfDead.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter II, Article 17 -->
+  <NonvenerationOfDead.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第二章 第十七条</NonvenerationOfDead.genevaConventionLocation>
+  <!-- EN: Desecrated the dead. -->
+  <NonvenerationOfDead.pastTenseBrief>亵渎了死者</NonvenerationOfDead.pastTenseBrief>
+  
+  <!-- EN: pillaging civilian locations -->
+  <Pillaging.label>掠夺民用地点</Pillaging.label>
+  <!-- EN: Pillage or plunder of civilian sites is prohibited. -->
+  <Pillaging.description>在不妨害上述规定的普遍性的条件下，对第一款所指的人的下列行为是禁止的，并在任何时候和在任何地方均应禁止：（七）抢劫</Pillaging.description>
+  <!-- EN: Geneva Conventions Act 1957, Sixth Schedule, Part II, Article 4 -->
+  <Pillaging.genevaConventionLocation>《关于保护非国际性武装冲突受难者的附加议定书》第二部 第四条</Pillaging.genevaConventionLocation>
+  <!-- EN: Raided civilians. -->
+  <Pillaging.pastTenseBrief>掠夺了平民。</Pillaging.pastTenseBrief>
+  
+  <!-- EN: violating prisoner diet -->
+  <PrisonerDiet.label>违反囚犯饮食禁忌</PrisonerDiet.label>
+  <!-- EN: It is prohibited to violate reasonable dietary demands of a prisoner. -->
+  <PrisonerDiet.description>战俘所习惯之饮食亦应顾及。</PrisonerDiet.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 26 -->
+  <PrisonerDiet.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二十六条</PrisonerDiet.genevaConventionLocation>
+  <!-- EN: Violated dietary needs of a prisoner. -->
+  <PrisonerDiet.pastTenseBrief>违反了囚犯的饮食禁忌。</PrisonerDiet.pastTenseBrief>
+  
+  <!-- EN: refused treatment to a prisoner -->
+  <PrisonerSick.label>拒绝治疗囚犯</PrisonerSick.label>
+  <!-- EN: Proper treatment of diseases and injuries of prisoners is required. -->
+  <PrisonerSick.description>每一战俘营内应设有适当之医疗所，俾战俘可获得所需之照顾与适当之饮食</PrisonerSick.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter III, Article 30 -->
+  <PrisonerSick.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第三编 第三十条</PrisonerSick.genevaConventionLocation>
+  <!-- EN: Left a prisoner of war untreated. -->
+  <PrisonerSick.pastTenseBrief>使得战俘不受治疗。</PrisonerSick.pastTenseBrief>
+  
+  <!-- EN: starving prisoners -->
+  <PrisonerStarvation.label>使囚犯挨饿</PrisonerStarvation.label>
+  <!-- EN: It is prohibited to deprive prisoners of nutritional needs. -->
+  <PrisonerStarvation.description>每日基本口粮在量、质与种类上应足够保持战俘之健康及防止体重减轻或营养不足</PrisonerStarvation.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 26 -->
+  <PrisonerStarvation.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二十六条</PrisonerStarvation.genevaConventionLocation>
+  <!-- EN: Starved a prisoner. -->
+  <PrisonerStarvation.pastTenseBrief>使囚犯挨饿。</PrisonerStarvation.pastTenseBrief>
+  
+  <!-- EN: violence against prisoners of war -->
+  <PrisonerViolence.label>对战俘的暴力</PrisonerViolence.label>
+  <!-- EN: Torture, experimentation, mutilation, or violence against prisoners of war is prohibited -->
+  <PrisonerViolence.description>在一缔约国之领土内发生非国际性之武装冲突之场合，冲突之各方最低限度应遵守下列规定：（一）不实际参加战事之人员……因此，对于上述人员，不论何时何地，不得有下列行为：（甲）对生命与人身施以暴力，特别如各种谋杀、残伤肢体、虐待及酷刑</PrisonerViolence.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter I, Article 3 -->
+  <PrisonerViolence.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三条</PrisonerViolence.genevaConventionLocation>
+  <!-- EN: Commited an act of grevious violence against a prisoner of war. -->
+  <PrisonerViolence.pastTenseBrief>对战俘实施了严重的暴力行为</PrisonerViolence.pastTenseBrief>
+  
+  <!-- EN: compelling a prisoner of war into service -->
+  <Recruitment.label>强迫招募战俘</Recruitment.label>
+  <!-- EN: Compelling a prisoner of war into service is prohibited. -->
+  <Recruitment.description>于有关战俘营之管理，设备，或保养工作外，战俘仅得强迫其从事下列各类所包括之工作：（己）无军事性质或目的之公用事业</Recruitment.description>
+  <!-- EN: Geneva Conventions Act 1957, Fourth Schedule, Part III Section III, Chapter VIII, Article 51 -->
+  <Recruitment.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第三编 第五十条</Recruitment.genevaConventionLocation>
+  <!-- EN: Press-ganged a prisoner of war. -->
+  <Recruitment.pastTenseBrief>强征战俘入伍。</Recruitment.pastTenseBrief>
+  
+  <!-- EN: releasing a starving prisoner -->
+  <ReleasePrisonerHungry.label>释放挨饿囚犯</ReleasePrisonerHungry.label>
+  <!-- EN: Release of starving prisoners is prohibited. -->
+  <ReleasePrisonerHungry.description>非系第二十八条所规定之必需留用人员……在等候回国期间，不应视为战俘，但至少应享受１９４９年８月１２日关于战俘待遇之日内瓦公约所规定之利益。</ReleasePrisonerHungry.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter IV, Article 30 -->
+  <ReleasePrisonerHungry.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三十条</ReleasePrisonerHungry.genevaConventionLocation>
+  <!-- EN: Released a starving prisoner. -->
+  <ReleasePrisonerHungry.pastTenseBrief>释放了挨饿囚犯。</ReleasePrisonerHungry.pastTenseBrief>
+  
+  <!-- EN: releasing an unclothed prisoner -->
+  <ReleasePrisonerNude.label>释放衣衫褴褛的囚犯</ReleasePrisonerNude.label>
+  <!-- EN: Release of of a prisoner wearing poor garments is prohibited. -->
+  <ReleasePrisonerNude.description>非系第二十八条所规定之必需留用人员……在等候回国期间，不应视为战俘，但至少应享受１９４９年８月１２日关于战俘待遇之日内瓦公约所规定之利益。</ReleasePrisonerNude.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter IV, Article 30 -->
+  <ReleasePrisonerNude.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三十条</ReleasePrisonerNude.genevaConventionLocation>
+  <!-- EN: Released an unclothed prisoner. -->
+  <ReleasePrisonerNude.pastTenseBrief>释放了衣衫褴褛的囚犯。</ReleasePrisonerNude.pastTenseBrief>
+  
+  <!-- EN: releasing an ill prisoner -->
+  <ReleasePrisonerSick.label>释放生病囚犯</ReleasePrisonerSick.label>
+  <!-- EN: Release of ill prisoners while they could reasonably be treated by the detaining power is prohibited. -->
+  <ReleasePrisonerSick.description>非系第二十八条所规定之必需留用人员……在等候回国期间，不应视为战俘，但至少应享受１９４９年８月１２日关于战俘待遇之日内瓦公约所规定之利益。</ReleasePrisonerSick.description>
+  <!-- EN: Geneva Conventions Act 1957, First Schedule, Chapter IV, Article 30 -->
+  <ReleasePrisonerSick.genevaConventionLocation>《改善战地武装部队伤者病者境遇之日内瓦公约》第一章 第三十条</ReleasePrisonerSick.genevaConventionLocation>
+  <!-- EN: Released an untreated prisoner. -->
+  <ReleasePrisonerSick.pastTenseBrief>释放了未受治疗的囚犯。</ReleasePrisonerSick.pastTenseBrief>
+  
+  <!-- EN: preventing prisoners from worshipping -->
+  <ReligiousDeprivation.label>禁止囚犯祈祷</ReligiousDeprivation.label>
+  <!-- EN: It is prohibited to deprive prisoners of a means or place to worship. -->
+  <ReligiousDeprivation.description>战俘住宿之条件……应顾及战俘之习惯与风俗。</ReligiousDeprivation.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <ReligiousDeprivation.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二十五条</ReligiousDeprivation.genevaConventionLocation>
+  <!-- EN: Deprived a prisoner of their religious rights. -->
+  <ReligiousDeprivation.pastTenseBrief>剥夺了囚犯的宗教权利。</ReligiousDeprivation.pastTenseBrief>
+  
+  <!-- EN: use of weaponry that causes superfluous suffering -->
+  <Suffering.label>使用造成不必要痛苦的武器</Suffering.label>
+  <!-- EN: Use of weaponry that causes undue and superfluous suffering. -->
+  <Suffering.description>禁止使用属于引起过分伤害和不必要痛苦的性质的武器、投射体和物质及作战方法</Suffering.description>
+  <!-- EN: Geneva Conventions Act 1957, Fifth Schedule, Part III, Section I, Article 35 -->
+  <Suffering.genevaConventionLocation>《关于保护国际性武装冲突受难者的附加议定书》第三部 第一编 第三十五条</Suffering.genevaConventionLocation>
+  <!-- EN: Caused superfluous suffering. -->
+  <Suffering.pastTenseBrief>造成了不必要的痛苦。</Suffering.pastTenseBrief>
+  
+  <!-- EN: holding women in unisex cells -->
+  <UnisexCells.label>将女性置于混性囚室</UnisexCells.label>
+  <!-- EN: It is prohibited to hold women in cells with men. -->
+  <UnisexCells.description>任何战俘营，如同时收容男女战俘，应为其分设宿舍</UnisexCells.description>
+  <!-- EN: Geneva Conventions Act 1957, Third Schedule, Part I, Section II, Chapter II, Article 25 -->
+  <UnisexCells.genevaConventionLocation>《关于战俘待遇之日内瓦公约》第三部 第二编 第二十五条</UnisexCells.genevaConventionLocation>
+  <!-- EN: Held a woman in a cell with men. -->
+  <UnisexCells.pastTenseBrief>将女性置于有男性的囚室。</UnisexCells.pastTenseBrief>
+  
+  <!-- EN: unmarked traps -->
+  <UnlabeledTraps.label>未标记的陷阱</UnlabeledTraps.label>
+  <!-- EN: Planting mines or booby traps outside of a marked area. -->
+  <UnlabeledTraps.description>当事各方应尽力保证将其布放或安置的所有其他布雷区、地雷（水雷）以及饵雷的位置保持记录</UnlabeledTraps.description>
+  <!-- EN: Geneva Convention on Certain Conventional Weapons, Protocol II -->
+  <UnlabeledTraps.genevaConventionLocation>《特定常规武器公约》第二号议定书</UnlabeledTraps.genevaConventionLocation>
+  <!-- EN: Used illegally concealed traps. -->
+  <UnlabeledTraps.pastTenseBrief>使用了非法隐藏的陷阱。</UnlabeledTraps.pastTenseBrief>
+  
+</LanguageData>

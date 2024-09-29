@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: war crimes -->
+  <WarCrimes.label>战争罪行</WarCrimes.label>
+  <!-- EN: View all infractions of the Geneva Conventions you have commited thus far. -->
+  <WarCrimes.description>查看截至目前你违反《日内瓦公约》的所有行为。</WarCrimes.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Alert on war crime commited: -->
+  <THGC_AlertLabel>当犯下战争罪时的警报：</THGC_AlertLabel>
+	<!-- EN: You have violated {0}: {1} -->
+  <THGC_CrimeCommited>你已经违反了{0}：{1}</THGC_CrimeCommited>
+
+
+	<!-- EN: {0}:{1}, Date: {2} -->
+  <THGC_OffenseFormat>{0}：{1}， 日期：{2}</THGC_OffenseFormat>
+	<!-- EN:  Victims: {0} -->
+  <THGC_VictimsFormat>受害者：{0}</THGC_VictimsFormat>
+	<!-- EN: {0} ({1} infractions) -->
+  <THGC_Infractions>{0}（共{1}次）</THGC_Infractions>
+	<!-- EN: Total War Crimes Committed: {0} -->
+  <THGC_TotalCrimes>犯下的全部战争罪：{0}</THGC_TotalCrimes>
+	<!-- EN: Unique War Crimes Committed: {0} / {1} -->
+  <THGC_UniqueCrimes>犯下的独特战争罪：{0}/{1}</THGC_UniqueCrimes>
+</LanguageData>
